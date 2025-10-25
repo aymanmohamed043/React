@@ -8,16 +8,7 @@ function App() {
       <Header />
       <main className="container">
         {data.map((ele) => {
-          return (
-            <Card
-              img={ele.img}
-              country={ele.country}
-              mapLink={ele.mapLink}
-              placeName={ele.placeName}
-              date={ele.date}
-              text={ele.text}
-            />
-          );
+          return <Card key={ele.id} {...ele} />;
         })}
       </main>
     </div>

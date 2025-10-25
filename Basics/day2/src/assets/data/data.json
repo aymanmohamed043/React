@@ -1,5 +1,6 @@
 [
-    {
+    {   
+        "id": 1,   
         "img": "https://scrimba.com/links/travel-journal-japan-image-url",
         "country": "JAPAN",
         "mapLink": "https://www.google.com/maps/place/Mount+Fuji/",
@@ -7,7 +8,8 @@
         "date": "12 Jan, 2021 - 24 Jan, 2021",
         "text": "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). It is one of Japan's Three Holy Mountains and a UNESCO World Heritage Site."
     },
-    {
+    {   
+        "id": 2,
         "img": "https://scrimba.com/links/travel-journal-australia-image-url",
         "country": "AUSTRALIA",
         "mapLink": "https://maps.app.goo.gl/Zr17SCrsJeCEKMd36",
@@ -15,7 +17,8 @@
         "date": "27 May, 2021 - 8 Jun, 2021",
         "text": "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings."
     },
-    {
+    {   
+        "id": 3,
         "img": "https://scrimba.com/links/travel-journal-norway-image-url",
         "country": "NORWAY",
         "mapLink": "https://maps.app.goo.gl/fhkJuBhmFDv47tiB7",
@@ -23,16 +26,18 @@
         "date": "01 Oct, 2021 - 18 Nov, 2021",
         "text": "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
     },
-    {
-        "img": "https://scrimba.com/links/travel-journal-egypt-image-url",
+    {   
+        "id": 4,
+        "img": "https://th.bing.com/th/id/OIP.QgZ60PVHr3fUQLlRQcpt2wHaFj?w=264&h=198&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
         "country": "EGYPT",
         "mapLink": "https://www.google.com/maps/place/Pyramids+of+Giza/",
         "placeName": "Pyramids of Giza",
         "date": "05 Mar, 2022 - 20 Mar, 2022",
         "text": "The Pyramids of Giza are ancient monuments that date back more than 4,000 years. They are the only surviving wonder of the Seven Wonders of the Ancient World."
     },
-    {
-        "img": "https://scrimba.com/links/travel-journal-iceland-image-url",
+    {   
+        "id": 5,
+        "img": "https://th.bing.com/th/id/OIP.6jsiUUl-IgzzPXVcY6kvlwHaEK?w=267&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
         "country": "ICELAND",
         "mapLink": "https://www.google.com/maps/place/Blue+Lagoon/",
         "placeName": "Blue Lagoon",
